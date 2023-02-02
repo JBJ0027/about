@@ -23,7 +23,7 @@ h2,h3,h4,h5,h6,p { /* h1부터 p까지 스타일 적용하겠다 */
     width: 924px;
     height: 80px;
     line-height: 80px;
-    background-image: url("ribbone-1.png");
+    background-image: url("../images/ribbone-1.png");
     margin: 3rem auto; /* 바깥여백 : 상하0, 좌우 알아서(계산) */
 }
 /*
