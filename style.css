@@ -60,3 +60,12 @@ h2,h3,h4,h5,h6,p { /* h1부터 p까지 스타일 적용하겠다 */
     width: 200px;
     margin: 2rem 0; 
 }
+@media screen and (max-width: 480px) { /*미디어의 가로크기가 480일때 */
+    #moto {
+        width: 400px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 80px;
+        line-height: 30px;
+    }
+}
